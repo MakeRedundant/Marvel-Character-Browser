@@ -7,7 +7,7 @@ User can input a character from the Marvel franchise view the available comics f
 The user can click a link to take them to the available comics as well view the full wikipedia page. Recent searches are saved on local storage and can be cleared. 
 ## Screenshot
 Gif
-![Marvel Character](./assets/images/Marvel Characters.gif)
+![Marvel Character](./assets/images/Marvel%20Characters.gif)
 
 ## Credits and Acknowledgement  
 Brian https://github.com/MakeRedundant  
